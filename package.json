@@ -1,0 +1,23 @@
+{
+  "name": "proyecto-json-server",
+  "version": "0.0.1",
+  "description": "Creacion de pequeño server con información de gatos famosos en formato json",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cinthyadirisio/lil-json-server.git"
+  },
+  "keywords": [
+    "json-server",
+    "nodeJS"
+  ],
+  "author": "Cinthya Di Risio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cinthyadirisio/lil-json-server/issues"
+  },
+  "homepage": "https://github.com/cinthyadirisio/lil-json-server#readme"
+}

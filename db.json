@@ -1,0 +1,45 @@
+{
+    "gatos_famosos": [
+      {
+        "id": 1,
+        "nombre": "Grumpy Cat",
+        "edad": 7,
+        "raza": "Mestizo",
+        "color": "Blanco y Marrón",
+        "famoso_por": "Su expresión gruñona"
+      },
+      {
+        "id": 2,
+        "nombre": "Maru",
+        "edad": 12,
+        "raza": "Scottish Fold",
+        "color": "Atigrado",
+        "famoso_por": "Videos en YouTube"
+      },
+      {
+        "id": 3,
+        "nombre": "Socks",
+        "edad": 20,
+        "raza": "Mestizo",
+        "color": "Blanco y Negro",
+        "famoso_por": "Gato de la Casa Blanca"
+      },
+      {
+        "id": 4,
+        "nombre": "Tardar Sauce",
+        "edad": 7,
+        "raza": "Mestizo",
+        "color": "Blanco y Marrón",
+        "famoso_por": "Conocido como Grumpy Cat"
+      },
+      {
+        "id": 5,
+        "nombre": "Tommaso",
+        "edad": 10,
+        "raza": "Mestizo",
+        "color": "Negro",
+        "famoso_por": "Gato más rico del mundo"
+      }
+    ]
+  }
+  
